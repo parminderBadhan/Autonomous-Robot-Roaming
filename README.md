@@ -1,5 +1,4 @@
 # Autonomous-Robot-Roaming
-This project programs an EEBot mobile robot using HCS12 assembly language to autonomously navigate a maze. The robot follows a line, detects intersections, makes directional decisions, and learns the correct path through trial and error. Once it reaches the end of the maze, it retraces the learned route back to the starting point demonstrating real-time sensor integration, state machine design, and low-level hardware control.
 
 **📌 Overview**
 
